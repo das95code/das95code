@@ -1,4 +1,4 @@
-## Hi there, i'm David Alcázar 👋
+## Hi there, I'm David Alcázar 👋
 
 <!--
 **das95code/das95code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
