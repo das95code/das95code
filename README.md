@@ -1,4 +1,22 @@
-## Hi there, I'm David Alcázar 👋
+<div align="center">
+<h1 align="center">Hi there, I am <a href="https://www.linkedin.com/in/davidalcazarsanchez/">David Alcázar</a> 👋</h1>
+</div>
+<img scr="https://imgur.com/a/n0oKE6p">
+
+## Junior Developer 👨‍💻
+
+Experienced in:
+
+C# 💻
+Java ☕
+Python 🐍
+Kotlin 🌟
+Passionate about:
+
+Learning new technologies 🚀
+Working on challenging projects 💡
+Growing professionally 🌱
+Currently seeking job opportunities in the programming world 🌍.
 
 <!--
 **das95code/das95code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
