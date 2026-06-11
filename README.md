@@ -6,9 +6,11 @@
 
 Experienced in:
 
-C# 💻
-Java ☕
+C# & .NET 💻
+Java & Spring & Springboot ☕
 Python 🐍
+JavaScript 💲
+PHP & CodeIgniter + Beans 🐘
 Kotlin 🌟
 Passionate about:
 
