@@ -1,7 +1,6 @@
 <div align="center">
 <h1 align="center">Hi there, I am <a href="https://www.linkedin.com/in/davidalcazarsanchez/">David Alcázar</a> 👋</h1>
 </div>
-<img src="https://i.imgur.com/9tQp7cO.jpg">
 
 ## Junior Developer 👨‍💻
 
