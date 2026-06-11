@@ -12,7 +12,7 @@ Python 🐍
 JavaScript 💲
 PHP & CodeIgniter + Beans 🐘
 Kotlin 🌟
-<br>
+<br><br>
 Passionate about:<br>
 
 Learning new technologies 🚀
