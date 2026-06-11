@@ -4,7 +4,7 @@
 
 ## Junior Developer 👨‍💻
 
-Experienced in:
+Experienced in:<br>
 
 C# & .NET 💻
 Java & Spring & Springboot ☕
@@ -12,7 +12,9 @@ Python 🐍
 JavaScript 💲
 PHP & CodeIgniter + Beans 🐘
 Kotlin 🌟
-Passionate about:
+
+<br><br>
+Passionate about:<br>
 
 Learning new technologies 🚀
 Working on challenging projects 💡
